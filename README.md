@@ -11,7 +11,7 @@ This project is part of my attempt to practice JS using the FreeCodeCamp [Build 
 
 ## Task
 
-The task of this project was to create the functionality for side bar JS. The side is supposed to show up when the toggle button is clicked and when the close btn is clicked, it disappears
+The task of this project was to create the functionality for side bar JS. The sidebar is supposed to show up when the toggle button is clicked and when the close btn is clicked, it disappears
 
 ## What I learned
 
